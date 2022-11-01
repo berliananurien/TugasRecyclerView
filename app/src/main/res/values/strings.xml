@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyleView 2018118</string>
+    <string-array name="kucing">
+        <item>Anggora</item>
+        <item>Domestik</item>
+        <item>Ragdoll</item>
+        <item>Siam</item>
+    </string-array>
+    <string-array name="love">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.8</item>
+        <item>4.6</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Kucing domestik mungkin menjadi jenis kucing yang paling banyak ditemui.</item>
+        <item>Kucing Anggora memiliki ciri khas pada bentuk kepalanya yang segitiga berbulu lebat menyerupai singa dengan hidung yang lebih mancung dari kucing jenis lainnya.</item>
+        <item>Kucing Ragdoll merupakan jenis kucing asal Amerika Serikat dengan nama asli Ragdoll yang diambil dari sifatnya yang jinak layaknya sebuah boneka.</item>
+        <item>Kucing Siam merupakan jenis kucing dengan ras oriental yang populer di Thailand dan paling terkenal dari semua jenis kucing pedigree.</item>
+    </string-array>
+</resources>
